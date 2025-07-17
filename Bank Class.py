@@ -15,7 +15,7 @@ class Bank:
 b1=Bank()
 b1.getData()
 b1.deposit(12000)
-b1.withdraw(85 00)
+b1.withdraw(8500)
 b1.getData()
     
     
